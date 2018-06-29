@@ -1,0 +1,20 @@
+
+body{
+	font-family: sans-serif;
+}
+li{
+	display: inline;	
+	padding-right: 15px;
+}
+
+ul a{
+	text-decoration: none;
+}
+/*
+ul{
+	width: 150px;
+}
+*/
+ul a:hover {
+	text-decoration: underline;
+}
